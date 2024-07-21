@@ -10,7 +10,8 @@
     "host",
     "kernel",
     "shell",
+    "wm",
     "memory",
-    "break",
+    "break"
   ]
 }
